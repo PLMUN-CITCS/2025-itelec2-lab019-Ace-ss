@@ -1,5 +1,4 @@
 user_input = input("Enter your numeric grade: ")
-
 grade = int(user_input)
     
 if grade > 90:
@@ -13,4 +12,4 @@ elif grade >= 60:
 else:
     letter_grade = "F"
     
-print("Your grade is:", letter_grade) # Correct indentation
+    print("Your grade is:", letter_grade) # Correct indentation
